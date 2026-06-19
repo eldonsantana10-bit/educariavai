@@ -1,0 +1,14 @@
+{
+  "name": "educar-ia",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node servidor/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "groq-sdk": "^1.2.1"
+  }
+}
