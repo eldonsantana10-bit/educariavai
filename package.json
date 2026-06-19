@@ -1,9 +1,6 @@
 {
-  "name": "educar-ia",
-  "version": "1.0.0",
-  "private": true,
   "scripts": {
-    "start": "node servidor/server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "cors": "^2.8.6",
